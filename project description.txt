@@ -1,0 +1,8 @@
+The provided code simulates a wireless sensor network scenario with dynamic node movements, adaptive communication ranges, 
+and obstacle avoidance. Users can input parameters such as the number of nodes, network dimensions, obstacles, source-destination pairs,
+ and simulation iterations through a dialog box. The nodes move randomly within the network, adjusting their communication ranges based on 
+distances to source nodes. Additionally, an obstacle avoidance strategy is implemented, where nodes alter their positions when close to
+ obstacles. The code monitors nodes for low energy levels, providing a notification if any node falls below a threshold. This simulation 
+allows users to visualize the dynamic behavior of nodes, the impact of obstacles, and the adaptation of communication ranges. 
+The performance of the code depends on the chosen parameters, providing insights into energy consumption, potential obstacles,
+ and the overall robustness of the wireless sensor network.
